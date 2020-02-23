@@ -1,0 +1,65 @@
+.cls-root{
+    background-color: lightgray;
+}
+.cls-header{
+    min-height: 20px;
+    max-height: 25px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    background-color: lightsteelblue;
+}
+.cls-header .cls-header-text{
+    font-weight: bold;
+    
+    font-style: normal;
+}
+div.cls-file-upld {
+    min-height: 50px;
+    min-width:1535px;
+    background-color: rgb(200, 231, 200);
+}
+
+.cls-inp{
+    min-height: 40px;
+    max-height: 45px;
+}
+.cls-upl{
+    min-height: 50px;
+    max-height: 40px;
+}
+.cls-inp .cls-inp-typ{
+    font-size: 14px;
+}
+.cls-upl .cls-upl-button{
+    min-height: 35px;
+    max-height: 40px;
+    min-width: 150px;
+    margin-left: -100px;
+    background-color: mediumturquoise;
+    font-weight: bold;
+    font-size: 14px;
+}
+.cls-search-table{
+    min-width:1535px; 
+    background-color: lightgray;
+}
+
+/*
+.MuiPaper-root{
+    background-color: lightgray;
+}
+ 
+.cls-search-table .MuiToolbar-regular{
+    background-color: lightgray;
+}
+
+.MuiTable-root .MuiTableHead-root .MuiTableCell-head{
+    background-color: lightgray;
+}
+.MuiTableBody-root{
+    background-color: lightgray;
+}
+.MuiTableRow-root{
+    background-color: lightgray;
+}
+*/
